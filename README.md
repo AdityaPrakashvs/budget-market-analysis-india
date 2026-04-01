@@ -99,3 +99,13 @@ BBA Fintech Student | Aspiring Research Analyst
 - Use Python for advanced analysis  
 - Include sector-wise impact study  
 - Apply machine learning for prediction models  
+## 📊 Project Preview
+
+Due to GitHub preview limitations, some files may not render directly.
+
+👉 Please download the files to view full analysis.
+
+Key highlights:
+- Correlation and regression analysis of Sensex & Nifty
+- Year-wise market reaction data
+- Statistical insights on volatility
